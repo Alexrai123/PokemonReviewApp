@@ -1,0 +1,7 @@
+1.  Search "Package Manager .. "
+1.1 Add-Migration InitialCreate(only when is created for the first time)
+1.2 Update-Database\
+2.  Search "Terminal"
+2.1 dir
+2.2 cd PokemonReviewApp
+2.3 dotnet run seeddata
